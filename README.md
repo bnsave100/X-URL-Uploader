@@ -13,7 +13,7 @@ Telegram RoBot to Upload Links.
 
 **For Devs**:
 
-[![Deploy to Heroku](👉)](https://dashboard.heroku.com/new-app?template=https://github.com/bnsave100/X-URL-Uploader) [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
+[![👉](https://dashboard.heroku.com/new-app?template=https://github.com/bnsave100/X-URL-Uploader) [X-URL-Uploader-dev](https://github.com/X-Gorn/X-URL-Uploader/tree/dev)
 
 
 ## Credits, and Thanks to:
